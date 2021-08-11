@@ -1,0 +1,1 @@
+# golang和mysql中的默认值与空值

@@ -1,0 +1,3 @@
+# unique约束出现重复
+> mysql中经常对某列或多列数据使用unique约束或者组合unique约束  
+在通过gorm向mysql中插入数据时，当出现不满足unique约束的情况时会出现冲突
